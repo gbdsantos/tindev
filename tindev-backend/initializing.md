@@ -15,6 +15,7 @@ yarn add express
 yarn add nodemon -D
 yarn add mongoose # Dependência para trabalhar com o MongoDB
 yarn add axios # Dependência para trabalhar com requisições de API's externas no NodeJS
+yarn add cors # Dependência para permitir que a aplicação seja acessada por qualquer endereço
 ```
 
 ## Autor
