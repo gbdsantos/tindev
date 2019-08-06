@@ -1,17 +1,11 @@
-# Iniciando Projeto & Dependências
+# TinDev
 
-## Começando
+Back-End da aplicação do projeto do Bootcamp GoStack 8.0 da [Rocketseat]() :rocket:.
 
-Comandos executados para iniciar o projeto.
-
-```Shell
-yarn init -y
-```
-
-## Dependências
+## Executar Aplicação
 
 ```Shell
-
+yarn dev # Para rodar a aplicação execute este comando
 ```
 
 ## Autor
