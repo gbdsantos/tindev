@@ -13,6 +13,7 @@ yarn init -y
 ```Shell
 yarn add express
 yarn add nodemon -D
+yarn add mongoose # Dependência para trabalhar com o MongoDB
 ```
 
 ## Autor
