@@ -14,6 +14,7 @@ yarn init -y
 yarn add express
 yarn add nodemon -D
 yarn add mongoose # Dependência para trabalhar com o MongoDB
+yarn add axios # Dependência para trabalhar com requisições de API's externas no NodeJS
 ```
 
 ## Autor
