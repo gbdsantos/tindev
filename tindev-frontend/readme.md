@@ -1,14 +1,14 @@
-# TinDev
+# :sparkles:TinDev
 
-Back-End da aplicação do projeto do Bootcamp GoStack 8.0 usando o **[ReactJS](https://pt-br.reactjs.org/)** da [Rocketseat]() :rocket:.
+Front-End da aplicação do projeto do Bootcamp GoStack 8.0 da [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
 ## Executar Aplicação
 
 ```Shell
-yarn start # Comando para executar a aplicação
+yarn dev # Para rodar a aplicação execute este comando
 ```
 
-## Autor
+## :bust_in_silhouette:Autor
 
 **Guilherme Bezerra**
 

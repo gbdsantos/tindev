@@ -1,14 +1,20 @@
-# TinDev
+# Iniciando Projeto & Dependências
 
-Back-End da aplicação do projeto do Bootcamp GoStack 8.0 usando o **[ReactJS](https://pt-br.reactjs.org/)** da [Rocketseat]() :rocket:.
+## Começando
 
-## Executar Aplicação
+Comandos executados para iniciar o projeto.
 
 ```Shell
-yarn start # Comando para executar a aplicação
+yarn create react-app tindev-frontend
 ```
 
-## Autor
+## Dependências
+
+```Shell
+
+```
+
+## :bust_in_silhouette:Autor
 
 **Guilherme Bezerra**
 
