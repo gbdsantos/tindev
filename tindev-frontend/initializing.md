@@ -11,7 +11,7 @@ yarn create react-app tindev-frontend
 ## Dependências
 
 ```Shell
-
+yarn add react-router-dom # Trabalhar com roteamento de página no ReactJS
 ```
 
 ## :bust_in_silhouette:Autor
